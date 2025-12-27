@@ -1,4 +1,4 @@
 [workspace]
 
 resolver = "3"
-members = ["solve_problems_with_rust_01"]
+members = ["module_test_docs_02", "project_maintenance_03/*","solve_problems_with_rust_01"]

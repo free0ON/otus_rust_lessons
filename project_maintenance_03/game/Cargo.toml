@@ -1,0 +1,12 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# engine = { path = "../engine", features = ["real_rand"] }
+engine = { path = "../engine", default-features = false, features = ["real_rand"]}
+# engine = { path = "../engine" }
+
+[features]
+# rnd = ["engine/real_rand"]
