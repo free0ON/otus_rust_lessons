@@ -1,0 +1,45 @@
+[package]
+name = "static_dynamic_polymorphism_practice_08"
+version = "0.1.0"
+edition = "2024"
+
+[[example]]
+name = "adder"
+
+[[example]]
+name = "compare"
+
+[[example]]
+name = "pair"
+
+[[example]]
+name = "area"
+
+[[example]]
+name = "wrapper"
+
+[[example]]
+name = "summary"
+
+[[example]]
+name = "bonus_combine"
+
+[[example]]
+name = "figures_collection"
+
+[[example]]
+name = "plugin"
+
+[[example]]
+name = "parser"
+
+[[example]]
+name = "sort_strategy"
+
+[[example]]
+name = "logger"
+
+[[example]]
+name = "bonus_event_handler"
+
+[dependencies]
